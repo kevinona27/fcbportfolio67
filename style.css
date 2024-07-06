@@ -47,7 +47,7 @@ footer{
 
 .fa-brands:hover, .fa-solid:hover{
 	color: #fff800;
-	transform: scale(0.5)translate(-10px);
+	transform: scale(1.2)translate(-10px);
     color: #fff800;
     border: 2px solid #fff800;
 }
